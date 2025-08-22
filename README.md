@@ -198,7 +198,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 * [Bootstrap 5.3.3](https://getbootstrap.com/) – for the responsive web interface
 * [jQuery 3.7.1](https://jquery.com/) – for AJAX handling
-
-```
-f you want a version with badges, GitHub-style usage screenshots, or links to a demo!
-```
