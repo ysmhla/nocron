@@ -32,16 +32,16 @@ It allows you to run PHP code or call external URLs on a recurring schedule, com
 
 ### 1. Place the Installer
 
-Copy `index.php` to your project’s root directory (e.g., `/var/www/html/`).  
+Copy `noCron.php` to your project’s root directory (e.g., `/var/www/html/`).  
 Ensure the directory is writable.
 
 ### 2. Access the Installer
 
-Open `index.php` in your browser:
+Open `noCron.php` in your browser:
 
 ```
 
-[https://yourdomain.com/index.php](https://yourdomain.com/index.php)
+[https://yourdomain.com/noCron.php](https://yourdomain.com/noCron.php)
 
 ```
 
