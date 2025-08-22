@@ -166,7 +166,7 @@ file_put_contents('output.txt', date('Y-m-d H:i:s') . PHP_EOL, FILE_APPEND);
 ## ⚠️ Limitations
 
 * **Max Interval**: 3600 seconds (1 hour)
-* **Max Window**: 86400 seconds (1 day)
+* **Max Window**: 86400 seconds (1 day) (but then the script automatically respawns for another day, forever)
 * **Suffix Length**: 3–20 alphanumeric characters
 * **PHP Eval**: PHP task execution uses `eval()` — sanitize your code inputs.
 * **No HTTP Support**: HTTPS is required for all operations.
