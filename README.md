@@ -121,7 +121,7 @@ Click **Uninstall** in the manager interface to remove all files related to the 
 ```
 
 /project-root
-├── index.php                  # Installer script
+├── noCron.php                  # Installer script
 ├── noCron-{suffix}/
 │   ├── noCron-{suffix}.php           # Worker script
 │   ├── noCronControl-{suffix}.php    # Manager UI script
